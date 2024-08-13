@@ -26,7 +26,7 @@ const processImages = () => {
  Example output:
  [
  'https://example-1.png',
- 'https://example-3.png',
+ 'https://example-2.png',
  'https://example-default.png',
  'https://example-default.png',
  'https://example-5.png',
